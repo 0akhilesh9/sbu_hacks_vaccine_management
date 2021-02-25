@@ -2,5 +2,6 @@
 
 A Python flask based web portal with UI developed using angular for vaccine administration and distribution management.
 
+More details:
 
 https://devpost.com/software/covax-7oedty
